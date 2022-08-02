@@ -1,0 +1,4 @@
+***npm init --y : [to install the package.json file]
+***npm install : [to install dependencies when you have a project with or without node_modules, it creates a node_modules folder automatically and a packag-lock.json file]
+*** npm install xyz : [xyz can be an dependency like uuid, express etc]
+***npm install --save-dev xyz / npm install -D xyz : [dev dependencies are dependencies needed for just development eg. nodemon]
